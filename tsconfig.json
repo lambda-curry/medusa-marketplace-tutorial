@@ -14,6 +14,6 @@
     "rootDir": ".",
     "esModuleInterop": true
   },
-  "include": ["src", "subscribers", "medusa-config.js", "subscribers"],
+  "include": ["src", "medusa-config.js", "subscribers"],
   "exclude": ["dist", "node_modules", "**/*.spec.ts"]
 }
